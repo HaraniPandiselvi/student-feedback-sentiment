@@ -1,7 +1,0 @@
-streamlit
-transformers
-torch
-pandas
-matplotlib
-wordcloud
-scikit-learn
